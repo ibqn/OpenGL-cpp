@@ -1,6 +1,7 @@
 OpenGL tutorial 
 =================
 This repository contains source code of the  OpenGL tutorial.
+
 This tutorial demonstrates how to use  GTK+ toolkit  to create 
 a OpenGL context.
 
